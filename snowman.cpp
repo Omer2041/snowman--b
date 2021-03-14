@@ -2,7 +2,7 @@
 #include <iostream>
 #include <array>
 #include <string>
-#include <stdio.h>
+
 
 using namespace std;
 const int BLN = 49;
@@ -93,19 +93,4 @@ namespace ariel
 
 }
 
-// int main()
-// {
-//     using namespace ariel;
-//     cout << snowman(11111111) << endl;
-//     cout << snowman(22222222) << endl;
-//     cout << snowman(33333333) << endl;
-//     cout << snowman(44444444) << endl;
-//     cout << snowman(42331321) << endl;
-//     cout << snowman(12231323) << endl;
-//     cout << snowman(23323211) << endl;
-//     cout << snowman(33343311) << endl;
-//     cout << snowman(32413241) << endl;
-//     cout << snowman(41231231) << endl;
 
-//     return 0;
-// }
